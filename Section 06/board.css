@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    font: bold;     
+}
+table {
+    font-size: 155px;
+    border: solid black;
+    padding: 10px;
+    margin-left: 300px;
+    }

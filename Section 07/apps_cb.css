@@ -1,0 +1,27 @@
+#content {
+	padding-top: 25%;
+	text-align: center;
+	text-shadow: 0px 4px 3px black,
+				 0px 8px 13px black,
+				 0px 18px 23px black;
+}
+body {
+    background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=2&fm=jpg&h=775&q=50&w=1450);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    /* everything in the body changes  */
+}
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+html {
+    height: 100%;
+}
+hr {
+	width: 400px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid black;
+}

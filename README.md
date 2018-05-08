@@ -1,7 +1,7 @@
 # udemy_bootcamp | readme dot md
 my udemy complete web developer bootcamp
 
-05.05.2018
+05.08.2018
 also started to learn from the odin project but i think i will work with this
 and the odin project. the more the merrier as they always say.
 
